@@ -1,4 +1,2 @@
-theme: jekyll-theme-time-machine
-gem "github-pages", group: :jekyll_plugins
 title: Apuntes DAM
 description: There's some notes about course 2021
